@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Doraiba1
+- 👀 I’m interested in gaming
+- 🌱 I’m currently learning C++
